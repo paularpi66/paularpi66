@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Manual Testing, Automation testing. API Automation and Frontend Design**
 
-- 📫 How to reach me **paul.arpi66@gmail.com**
+- 📫 How to reach me **paularpi66@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/16qWcshrUO6Pc3u36X0KQgWXwiLQ0sqGVFr6nhWTedvk/edit?usp=sharing](https://docs.google.com/document/d/16qWcshrUO6Pc3u36X0KQgWXwiLQ0sqGVFr6nhWTedvk/edit?usp=sharing)
 
